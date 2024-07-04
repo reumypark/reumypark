@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={mdl1220})](https://solved.ac/{mdl1220})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=mdl1220)](https://solved.ac/mdl1220)
 
 <!--
 **reumypark/reumypark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
