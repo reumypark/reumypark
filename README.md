@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 📫 How to reach me: pjy558426@gmail.com
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mdl1220)](https://solved.ac/mdl1220)
 
