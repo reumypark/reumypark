@@ -4,10 +4,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mdl1220)](https://solved.ac/mdl1220)
 
-| | Park Ahreum | aaa | bbb |
-| --- | --- | --- |
-| **GitHub** | [reumypark](https://github.com/reumypark) | | |
-| **Language** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | | |
+| --- | Park Ahreum | aaa | bbb |
+| --- | --- | --- | --- |
+| **GitHub** | [reumypark](https://github.com/reumypark) | --- | --- |
+| **Language** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | --- | --- |
 
 
 
