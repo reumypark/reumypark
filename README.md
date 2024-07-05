@@ -6,7 +6,7 @@
 
 | Park Ahreum | aaa | bbb |
 | --- | --- | --- |
-| **GitHub** | [reumypark][https://github.com/reumypark] | | |
+| **GitHub** | [reumypark](https://github.com/reumypark) | | |
 | **Language** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | | |
 
 
